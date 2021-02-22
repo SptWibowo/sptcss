@@ -924,59 +924,6 @@ h5.spotify {
 h5.spotify:before {
     background-color: var(--spotify);
 }
-footer {
-    padding: 40px 0 30px;
-    background-color: var(--footer);
-}
-footer p {
-    color: var(--footerContent);
-    font-size: 14px;
-    font-weight: 400;
-    line-height: 1.8;
-    padding-top: 0;
-    margin-bottom: 12px;
-    margin-top: 15px;
-}
-footer p a, footer nav li a, footer .footer__column a {
-    color: var(--footerContent);
-}
-footer h4 {
-    color: var(--white);
-    font-size: 16px;
-    font-weight: 700;
-    margin: 11px 0 18px 0;
-}
-footer p.address:before, footer p.email-address:before, footer p.phone-number:before {
-    font: normal normal normal 14px/1 FontAwesome;
-    color: var(--footerContent);
-    padding-right: 3px;
-}
-footer p.phone-number:before {
-    content: "\f095";
-}
-footer p.email-address:before {
-    content: "\f003";
-}
-img.footer__brand {
-    padding-top: 8px;
-}
-footer nav ul {
-    margin: 0;
-    padding: 0;
-}
-footer nav li {
-    color: var(--footerContent);
-    font-size: 14px;
-    font-weight: 400;
-    padding-bottom: 10px;
-    list-style: none;
-}
-footer nav li a:hover, footer p a:hover {
-    color: var(--white);
-}
-footer nav + h4 {
-    margin-top: 25px;
-}
 .dropdown .dropdown-menu {
     -webkit-animation: swing-in-top-fwd 1s cubic-bezier(0.175, 0.885, 0.32, 1.275) alternate both;
     animation: swing-in-top-fwd 1s cubic-bezier(0.175, 0.885, 0.32, 1.275) alternate both;
