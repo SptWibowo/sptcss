@@ -247,7 +247,7 @@ section.dashboard {
 }
 .plan__current, .plan__available {
     display: block;
-    font-size: 16px;
+    font-size: 13px;
 }
 .dashboard__userContent {
     width: 100%;
