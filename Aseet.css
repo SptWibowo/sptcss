@@ -508,12 +508,6 @@ section.dashboard {
     font-size: 14px;
     font-weight: 400;
 }
-.panel-footer {
-    cursor: pointer;
-    background: transparent;
-    border-top: 1px solid #efefef;
-    margin-top: 10px;
-}
 span.more {
     font-size: 14px;
     color: #efefef;
